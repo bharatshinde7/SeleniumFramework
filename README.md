@@ -3,8 +3,8 @@ This is simple selenium project for Undostres web application with page object m
 
 # Technologoes -
 1) Maven
-2) selenium
-3) java
+2) Selenium
+3) Java
 4) TestNG
 
 # General Notes
