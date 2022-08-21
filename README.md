@@ -20,7 +20,7 @@ This is simple selenium project for Undostres web application with page object m
 # Installation
 A little intro about the installation. 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/bharatshinde7/SeleniumFramework.git
 $ import the maven project in eclipse/STS/IDE tool
 $ HomePage.java -> right click -> Run As -> TestNG test
 ```
