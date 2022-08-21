@@ -18,7 +18,6 @@ This is simple selenium project for Undostres web application with page object m
 ### We can not Automate captcha , Please manually click on it to continue Automation execution flow. 
 
 # Installation
-***
 A little intro about the installation. 
 ```
 $ git clone https://example.com
