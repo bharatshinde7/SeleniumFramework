@@ -14,7 +14,8 @@ This is simple selenium project for Undostres web application with page object m
 4.src/main/resources-drivers for browsers and data.properties file with all input data
 5.pom.xml- main unit of maven framework-contains dependencies of all integrated tools
  
-# IMPORTANT NOTE # We can not Automate captcha , Please manually click on it to continue Automation execution flow. 
+# IMPORTANT NOTE 
+### We can not Automate captcha , Please manually click on it to continue Automation execution flow. 
 
 # Installation
 ***
